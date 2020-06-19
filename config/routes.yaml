@@ -1,0 +1,7 @@
+index:
+    path: /
+    controller: App\Controller\HomeController::index
+
+destination:
+    path: /destination
+    controller: App\Controller\DestinationController::destination
